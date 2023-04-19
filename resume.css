@@ -1,0 +1,36 @@
+body {
+    background-color: gainsboro
+}
+
+h1 {
+    font-size: 50px;
+    color: plum;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+    text-decoration-color: rgb(82, 82, 180);
+    text-align: center;
+}
+
+h2 {
+    font-size: 35px;
+    color: plum;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: rgb(82, 82, 180);
+    padding-left: 100px;
+}
+
+a {
+    color: plum;
+    padding-right: 25px;
+    text-decoration: underline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(71, 71, 180);
+}
+
+h3 {
+    padding-left: 200px;
+}
